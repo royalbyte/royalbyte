@@ -23,7 +23,7 @@ Mostly for myself.
 
 <p>
 code · systems · small utilities<br>
-learning by doing, discarding, rebuilding
+learning by doing, breaking, rebuilding
 </p>
 
 <p>Occasionally useful</p>
