@@ -34,5 +34,4 @@ learning by doing, discarding, rebuilding
   <p>Languages</p>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="40"/>
 </div>
