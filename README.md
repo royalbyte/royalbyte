@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Blink</h1>
 <p align="center">"There is a certain unending beauty of creation, isn’t there?"</p>
 
 <p>
