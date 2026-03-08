@@ -28,11 +28,3 @@ learning by doing, breaking, rebuilding
 <p>Occasionally useful</p>
 
 ---
-
-<div align="center">
-  <h3>Toolchain</h3>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" width="50"/>
-</div>
