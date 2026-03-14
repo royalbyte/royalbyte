@@ -20,11 +20,6 @@ I build things.<br>
 Mostly for myself.
 </p>
 
-<p>
-code · systems · small utilities<br>
-learning by doing, breaking, rebuilding
-</p>
-
 <p>Occasionally useful</p>
 
 ---
