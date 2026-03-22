@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <p align="center">"There is a certain unending beauty of creation, isn’t there?"</p>
 
 <p>
-I build things.<br>
-Mostly for myself.
+I build things. Mostly for myself.<br>
+Mostly unnecessary. Occasionally useful.<br>
 </p>
 
-<p>Occasionally useful</p>
+<p>Some days are sub-optimal.</p>
 
 ---
